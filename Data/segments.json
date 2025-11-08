@@ -1,0 +1,1930 @@
+[
+    {
+        "id": 10775625,
+        "resource_state": 3,
+        "name": "Patscherkofel Segment 1",
+        "activity_type": "Ride",
+        "distance": 1176.2,
+        "average_grade": -17.9,
+        "maximum_grade": 7.8,
+        "elevation_high": 1894.0,
+        "elevation_low": 1683.6,
+        "start_latlng": [
+            47.212524,
+            11.453663
+        ],
+        "end_latlng": [
+            47.217384,
+            11.455999
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/X46VEOMOKHIWWGGS4JG24ADYYO7MFDBFPASMHM74PDTSDEMGO5R4PONCZXD7SY2JUVR2UYPZUK33UPWWVM7IBFQ=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/X46VEOMOKHIWWGGS4JG24ADYYO7MFDBFPASMHM74PDTSDEMGO5R4PONCZXD7SY2JUVR2UYPZUK33UPWWVM7IBFQ=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IUBLUZFIW66W3AAITDPZ3GJCCS3NECHBXOXZDG2FMGOU5V4RY6IID37KTWJ3XHB3SVBYR5WMRENWY3BSJFH3IMQ="
+        },
+        "climb_category": 0,
+        "city": "Patsch",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2015-10-28T15:46:10Z",
+        "updated_at": "2021-05-18T08:04:10Z",
+        "total_elevation_gain": 0.0,
+        "map": {
+            "id": "s10775625",
+            "polyline": "ged_Hk`|dA_@HEMw@oAGc@IKCDGAa@g@IOCYEQSQSk@CUA{B@w@BIAe@E[?UIa@Ee@Ia@Kk@S]E]EeBDe@C_AM@EEQ_@g@VS?[Fa@VWHc@@OLQBSE[B_@J[RWZg@IC@CD@FXd@VXLBc@R_@AE@A@FRJR^d@?DCF_@V_@LQJIC}@Gs@BID?CNJf@vAPRRDYJa@GcAHED?FVRXJADM?SCM?YH",
+            "resource_state": 3
+        },
+        "effort_count": 610,
+        "athlete_count": 359,
+        "star_count": 15,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "3:36",
+            "qom": "6:27",
+            "overall": "3:36",
+            "destination": {
+                "href": "strava://segments/10775625/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 10876786,
+            "title": "Sam Thomas",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10876786/5876306/2/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                "overall": "2 efforts",
+                "female": "1 effort"
+            },
+            "destination": "strava://segments/10775625/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 4056197,
+        "resource_state": 3,
+        "name": "Patscherkofel letzt stuck",
+        "activity_type": "Ride",
+        "distance": 2747.4,
+        "average_grade": 9.6,
+        "maximum_grade": 29.5,
+        "elevation_high": 2185.4,
+        "elevation_low": 1921.2,
+        "start_latlng": [
+            47.20973,
+            11.452435
+        ],
+        "end_latlng": [
+            47.208188,
+            11.461243
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KOGY5MTB4TNS5AY3LBKWGLV6NMTRVS6XDDNHHG7PXLUU5NL7PFKQQGLZMO3R5W4VCW6E4YTFUPBTHXP2X7FT7RI=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KOGY5MTB4TNS5AY3LBKWGLV6NMTRVS6XDDNHHG7PXLUU5NL7PFKQQGLZMO3R5W4VCW6E4YTFUPBTHXP2X7FT7RI=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HE7UZFRN2RZGDUGOICI6S2SDAC36R7JZZEVIQF6RQKOGYR6ZHLX7QJ6357K757GQSDKNSAINVS3Q2DCCDREXNGA="
+        },
+        "climb_category": 2,
+        "city": "Patsch",
+        "state": "Tir.",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-05-09T13:22:46Z",
+        "updated_at": "2021-05-17T08:04:22Z",
+        "total_elevation_gain": 264.2,
+        "map": {
+            "id": "s4056197",
+            "polyline": "ysc_Hux{dAx@B|@LfAEp@@bBS^K|@E^GT?\\WHQ\\c@Vi@`@m@XYPGx@g@TKd@_@VOZCVJ\\Bn@?r@CP@\\FPCV_@Rg@Hg@Bk@Ji@LODA\\YBQHO`A_B@GNQHW?MIg@EMEYAuAEy@Fq@My@G{@@e@NoCM{AGcAKe@IMGFAF?TDZATEl@Cr@GVGr@IZ[x@O\\SVELAf@Bp@@l@KTI?CCEQ?mAM}ABs@RaA@{@Iu@Yo@CMIsAIGC?AH@\\?VWjAAl@Ij@E~@KZYl@m@~AGHC@IRGH]Ro@Rc@Ta@ZOFc@?ABQKSEYDc@AO@SGQMOEy@JWGMIe@CUE]Y_@KOIUYWMMOUy@c@q@AIDAFDXNPPVBXAh@`@J@JAZONMPo@LSPMLEJINg@N]XoBBYC_@]uA[]{AgAMUMi@",
+            "resource_state": 3
+        },
+        "effort_count": 2811,
+        "athlete_count": 1372,
+        "star_count": 7,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "8:02",
+            "qom": "13:19",
+            "overall": "8:02",
+            "destination": {
+                "href": "strava://segments/4056197/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 45871567,
+            "title": "Willy Weiser",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/45871567/29805864/1/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                "overall": "3 efforts",
+                "female": "2 efforts"
+            },
+            "destination": "strava://segments/4056197/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 10791963,
+        "resource_state": 3,
+        "name": "Olperer (schnell)",
+        "activity_type": "Ride",
+        "distance": 315.8,
+        "average_grade": -21.2,
+        "maximum_grade": -10.9,
+        "elevation_high": 3132.3,
+        "elevation_low": 3065.2,
+        "start_latlng": [
+            47.055844,
+            11.663446
+        ],
+        "end_latlng": [
+            47.055824,
+            11.66736
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6X6VDMDBMEZ7VDIZ5FKS2HE7F5ZZH27RSBT7XCHANMEP4AFAUUMESGGNLNIYOTRAN2K4XL3G37EL4ZXQRYMP52I=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6X6VDMDBMEZ7VDIZ5FKS2HE7F5ZZH27RSBT7XCHANMEP4AFAUUMESGGNLNIYOTRAN2K4XL3G37EL4ZXQRYMP52I=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7QWNH2I4KJ6OD43FZM4PK32JOKVLXDAABPO6VO5BPF72DT5A2EKSBHYBFNN5JNE3WJZ46Z6J35GU4BXSYPUFZAQ="
+        },
+        "climb_category": 0,
+        "city": "Dornauberg",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2015-10-31T17:28:21Z",
+        "updated_at": "2021-05-15T02:17:12Z",
+        "total_elevation_gain": 0.0,
+        "map": {
+            "id": "s10791963",
+            "polyline": "_re~Go_efAFKBO?QJc@?k@FYViCFaBCkBUe@HqBEu@e@qA",
+            "resource_state": 3
+        },
+        "effort_count": 353,
+        "athlete_count": 276,
+        "star_count": 0,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "12s",
+            "qom": "13s",
+            "overall": "12s",
+            "destination": {
+                "href": "strava://segments/10791963/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 7527193,
+            "title": "Daniel Mi\u00f1ana",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/7527193/2276280/3/large.jpg",
+            "effort_description": "6 efforts in the last 90 days",
+            "effort_count": "6",
+            "effort_counts": {
+                "overall": "6 efforts",
+                "female": "1 effort"
+            },
+            "destination": "strava://segments/10791963/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 1449295,
+        "resource_state": 3,
+        "name": "Seegrube 1 Climb",
+        "activity_type": "Ride",
+        "distance": 585.129,
+        "average_grade": 20.1,
+        "maximum_grade": 54.9,
+        "elevation_high": 1892.6,
+        "elevation_low": 1775.1,
+        "start_latlng": [
+            47.30500654,
+            11.38157409
+        ],
+        "end_latlng": [
+            47.30660991,
+            11.37921693
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RFZSDRUX6H3OC5FVW22TRQUEH7DZYZOAYAYYX7TTNO6DT7FRQA3PJOGZPGZHAOODCPAXKJH52F7Z2GVB3I722LXM",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/RFZSDRUX6H3OC5FVW22TRQUEH7DZYZOAYAYYX7TTNO6DT7FRQA3PJOGZPGZHAOODCPAXKJH52F7Z2GVB3I722LXM",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/J22QYFXUGBZ5K4MSJJIGUX7GMO2GR4HQJ7PZUSFRFO2U5WSIJO7OIYYCFX53JR5MHOOVTOBNY6EF56B25B4E7PTD"
+        },
+        "climb_category": 1,
+        "city": "Innsbruck",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-05-26T12:27:09Z",
+        "updated_at": "2021-05-20T08:02:12Z",
+        "total_elevation_gain": 123.07,
+        "map": {
+            "id": "s1449295",
+            "polyline": "ggv_Hy}mdAOwAGOMKmASKH[^QNELCZBv@An@@JPd@@RAHEDCPCZE?]m@Sk@QY?OWy@[QKMI@Ux@Oz@ILQf@On@AVBRJ\\AFVb@DRDLb@vB",
+            "resource_state": 3
+        },
+        "effort_count": 5038,
+        "athlete_count": 1625,
+        "star_count": 5,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "3:30",
+            "qom": "5:21",
+            "overall": "2:05",
+            "destination": {
+                "href": "strava://segments/1449295/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 84618555,
+            "title": "Markus Fischer",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/84618555/20305304/1/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                "overall": "12 efforts",
+                "female": "1 effort"
+            },
+            "destination": "strava://segments/1449295/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 9807985,
+        "resource_state": 3,
+        "name": "Abzw. Bodensteiner - Seegrube",
+        "activity_type": "Ride",
+        "distance": 1707.3,
+        "average_grade": 15.6,
+        "maximum_grade": 49.0,
+        "elevation_high": 1884.8,
+        "elevation_low": 1617.7,
+        "start_latlng": [
+            47.303418,
+            11.385062
+        ],
+        "end_latlng": [
+            47.306677,
+            11.379543
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/NQEA5JZM3XL3BG6SJFEATZB44YAEAYMVA7VU5OZ5UGNI45ZDQB75CU7RFWDMQGAAFWAP2TR67572MJYDE4PM2W72",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/NQEA5JZM3XL3BG6SJFEATZB44YAEAYMVA7VU5OZ5UGNI45ZDQB75CU7RFWDMQGAAFWAP2TR67572MJYDE4PM2W72",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TENKY3KLMRD6CWMXSPH5HKSATV6EZPS4CHEWVKGRS3ZDHCICP65D352YNV25CLSSA5NNAWP4GBJNIDXFZ2HW7C4Z"
+        },
+        "climb_category": 2,
+        "city": "Innsbruck",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2015-06-25T08:35:09Z",
+        "updated_at": "2021-05-20T08:03:26Z",
+        "total_elevation_gain": 268.0,
+        "map": {
+            "id": "s9807985",
+            "polyline": "i}u_HssndAFNDDDd@Rj@r@x@^h@d@d@Td@Fn@AbABVJZBTENUOIAM?KBEDKTCf@?NANITMRa@GQMSYI]GGGCKJGh@Cl@FPDbADVJ\\PNPA@FMJa@HI?QCWOm@y@AAAD\\vBTn@HJNDBFAFEBk@CYM[[Yc@Ss@ABANFjDLb@JLNHJJ@FOFc@OWQYIIEMSUe@}@aAI[CS@i@R_BCq@M}@IQWSKBSA[IO@EBK\\KLQLCJA|BDPNZBNOl@AP@RABIIO]Sa@CIUi@Me@MWSYEMSUGBEJCZIb@I|@O~@_@z@@P\\|@d@vA",
+            "resource_state": 3
+        },
+        "effort_count": 5203,
+        "athlete_count": 1638,
+        "star_count": 6,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "11:15",
+            "qom": "14:56",
+            "overall": "5:48",
+            "destination": {
+                "href": "strava://segments/9807985/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 84618555,
+            "title": "Markus Fischer",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/84618555/20305304/1/large.jpg",
+            "effort_description": "12 efforts in the last 90 days",
+            "effort_count": "12",
+            "effort_counts": {
+                "overall": "12 efforts",
+                "female": "1 effort"
+            },
+            "destination": "strava://segments/9807985/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 5142551,
+        "resource_state": 3,
+        "name": "Zillergrund Climb",
+        "activity_type": "Ride",
+        "distance": 880.8,
+        "average_grade": 28.4,
+        "maximum_grade": 49.5,
+        "elevation_high": 2900.1,
+        "elevation_low": 2650.3,
+        "start_latlng": [
+            47.126812,
+            11.913786
+        ],
+        "end_latlng": [
+            47.129265,
+            11.917805
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YHXSASXJBQLPJH3K7O5VRD3DEEACU23RBEN5AJ4W4452BAAJJBWYPNFJWYDZE3ZSVD2J3SKEG7M44KD4Q4BAUEQ=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YHXSASXJBQLPJH3K7O5VRD3DEEACU23RBEN5AJ4W4452BAAJJBWYPNFJWYDZE3ZSVD2J3SKEG7M44KD4Q4BAUEQ=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VFMWUMPMTV3HQWCNZN3AYSB2OW4GT67QWGI6JR25LK2MXB2UOT6E5BFRIJKKJ6IB46EWNLWK5KFWXBDVWFUUVDQ="
+        },
+        "climb_category": 2,
+        "city": "Mayrhofen",
+        "state": "Tir.",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-08-16T15:16:41Z",
+        "updated_at": "2021-05-15T02:13:48Z",
+        "total_elevation_gain": 274.5,
+        "map": {
+            "id": "s5142551",
+            "polyline": "qms~Gc|ugAAC@WKGAEDCBFC@BAAG@IE@@@B]MSEABKCB?@@IE[BKAKDC@B?FCAE@CEAFA[BD?CIE@AEG?@D?EGEO@AEKHG@EEAEHCWMKAE?EEC?GC?AIGCAQEC?EGGG@ISADG?AGMKMCEE?BEACYKEEIIAEME?CKC?@CAB@CCGAAC@GEAGIO@WEI?IACMECIDAIFGM?GC?B?GFECBe@AOE?GKBCAC@A?EGIAIC?BCG??KEECOA@@EAFBD@AAF@?ABDJEP?JACCHCB@HIBCAGO@BDHEYBEFCCGICEE?FA@?EC??DGFAC@@@AAICAGHASB?A@AAAGBSM?CEIB@WEUGE@AEA?C?@GCEKAJCBACOG",
+            "resource_state": 3
+        },
+        "effort_count": 10,
+        "athlete_count": 11,
+        "star_count": 0,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "20:56",
+            "qom": null,
+            "overall": "20:56",
+            "destination": {
+                "href": "strava://segments/5142551/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 120694146,
+            "title": "Sepp K",
+            "profile": "avatar/athlete/large.png",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                "overall": "1 effort",
+                "female": null
+            },
+            "destination": "strava://segments/5142551/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 23795817,
+        "resource_state": 3,
+        "name": "zum Pendlinghaus",
+        "activity_type": "Ride",
+        "distance": 328.3,
+        "average_grade": 11.3,
+        "maximum_grade": 15.3,
+        "elevation_high": 1520.2,
+        "elevation_low": 1483.0,
+        "start_latlng": [
+            47.571838,
+            12.109124
+        ],
+        "end_latlng": [
+            47.573044,
+            12.111984
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5NEF2VDKWF3MO4D6OW5ZB3PDHBRU2Q5Q6T42N4DZRVQWHXWK3HDQIKM7W3QWQGY4JBXQI5PMEPZQLITPJESXK2DQ",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5NEF2VDKWF3MO4D6OW5ZB3PDHBRU2Q5Q6T42N4DZRVQWHXWK3HDQIKM7W3QWQGY4JBXQI5PMEPZQLITPJESXK2DQ",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/O33WFG5UJONULTE2N257DDZHQAXV5P27DLCBQK3UNVWAAC73KVWK3CGBUHBW7DDE6JGRZ2DDDIPDAZZGIE4CSFOJ"
+        },
+        "climb_category": 0,
+        "city": null,
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2020-05-04T08:28:06Z",
+        "updated_at": "2021-05-20T08:05:27Z",
+        "total_elevation_gain": 37.2,
+        "map": {
+            "id": "s23795817",
+            "polyline": "}jjaH_a|hAWs@Ua@MQy@qDUWAI?mA_@oAi@u@u@_@OMGO@KFCH@^^",
+            "resource_state": 3
+        },
+        "effort_count": 2141,
+        "athlete_count": 962,
+        "star_count": 7,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "45s",
+            "qom": "1:17",
+            "overall": "45s",
+            "destination": {
+                "href": "strava://segments/23795817/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 34820649,
+            "title": "Thomas Seidl",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/34820649/27677174/2/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                "overall": "3 efforts",
+                "female": "2 efforts"
+            },
+            "destination": "strava://segments/23795817/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 12721567,
+        "resource_state": 3,
+        "name": "DH Teil 3",
+        "activity_type": "Ride",
+        "distance": 272.0,
+        "average_grade": -13.6,
+        "maximum_grade": 15.2,
+        "elevation_high": 974.0,
+        "elevation_low": 936.4,
+        "start_latlng": [
+            47.57936,
+            12.110245
+        ],
+        "end_latlng": [
+            47.579515,
+            12.1137
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/W5WZHNPA7QPHMW22I3AYLOAXNIOBHTHVCFZGOBWVXEKLN2AF4Q6DFWWDS7L3EDWOMH2TYBRQ7AEUWGFVRSQAUHA=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/W5WZHNPA7QPHMW22I3AYLOAXNIOBHTHVCFZGOBWVXEKLN2AF4Q6DFWWDS7L3EDWOMH2TYBRQ7AEUWGFVRSQAUHA=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IJD36MT7YJLGENBZU4VZVJJGW6CJCSJ7RNSHPXNUSA3XSODGIAUEGZ2XBIHBWCBHSNGZXV4GCI7TQLWCL67NS5A="
+        },
+        "climb_category": 0,
+        "city": null,
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2016-07-25T20:15:57Z",
+        "updated_at": "2021-05-15T02:18:13Z",
+        "total_elevation_gain": 0.0,
+        "map": {
+            "id": "s12721567",
+            "polyline": "_zkaH_h|hADU@WSw@HUKOEc@Bq@ZwBGcA@WAKa@a@Bk@Go@Ho@Gi@@Y",
+            "resource_state": 3
+        },
+        "effort_count": 316,
+        "athlete_count": 144,
+        "star_count": 3,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "42s",
+            "qom": "1:28",
+            "overall": "42s",
+            "destination": {
+                "href": "strava://segments/12721567/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 18023482,
+            "title": "Kaj Nocker",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/18023482/12750847/1/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                "overall": "1 effort",
+                "female": null
+            },
+            "destination": "strava://segments/12721567/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 12719342,
+        "resource_state": 3,
+        "name": "DH Teil 4",
+        "activity_type": "Ride",
+        "distance": 320.4,
+        "average_grade": -23.5,
+        "maximum_grade": -4.3,
+        "elevation_high": 940.7,
+        "elevation_low": 865.3,
+        "start_latlng": [
+            47.579488,
+            12.113305
+        ],
+        "end_latlng": [
+            47.57934,
+            12.117443
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/V3W7NQULCEOX6HCPUDPXIRPSSTP5BOC5LGYSVUIHXSHNEAJEPMWPZVVKANJS3GVIIAE6QQS6TTA72VAVKR4UWFYN",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/V3W7NQULCEOX6HCPUDPXIRPSSTP5BOC5LGYSVUIHXSHNEAJEPMWPZVVKANJS3GVIIAE6QQS6TTA72VAVKR4UWFYN",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/OPLMSYFEOHYWEP3HIN5Z2ACXKVP43CMHSLEBNIDHJUB4XKNOSC7OTY5VDBSOM4LHNRRYF3O76O7CDYPMU3TJZXN2"
+        },
+        "climb_category": 0,
+        "city": null,
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2016-07-25T16:42:20Z",
+        "updated_at": "2021-05-18T08:04:28Z",
+        "total_elevation_gain": 0.0,
+        "map": {
+            "id": "s12719342",
+            "polyline": "wzkaHc{|hA?WEKA]JgA?o@Do@Hy@?[ZcDTwA@Y?IK]Ea@Ke@GiA@YGQ",
+            "resource_state": 3
+        },
+        "effort_count": 339,
+        "athlete_count": 152,
+        "star_count": 2,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "46s",
+            "qom": "1:48",
+            "overall": "46s",
+            "destination": {
+                "href": "strava://segments/12719342/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 103627941,
+            "title": "Jojo Jennerwein",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/103627941/27913418/16/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                "overall": "2 efforts",
+                "female": null
+            },
+            "destination": "strava://segments/12719342/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 6147200,
+        "resource_state": 3,
+        "name": "Hausern Climb",
+        "activity_type": "Ride",
+        "distance": 1001.7,
+        "average_grade": 12.0,
+        "maximum_grade": 49.0,
+        "elevation_high": 1020.0,
+        "elevation_low": 899.7,
+        "start_latlng": [
+            47.580466,
+            12.113763
+        ],
+        "end_latlng": [
+            47.578248,
+            12.113274
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MO4ILVLEIQ65JVNUYQSZJGKKEJYPWNUM6BEQHPLCJJ34EU43G37VXQTZ3B4DMUPPCUG5C6FZ536XQHBFIGGRJAQ=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MO4ILVLEIQ65JVNUYQSZJGKKEJYPWNUM6BEQHPLCJJ34EU43G37VXQTZ3B4DMUPPCUG5C6FZ536XQHBFIGGRJAQ=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/E7G7HHRO3ZQQOHSQXYHSBWVYSVVC7LB7WWOK7XP65HDV2624GWRPO5GO4HW4OX4KN2PMDG6AFGHIFJ34RJWCNTY="
+        },
+        "climb_category": 1,
+        "city": "Mitterland",
+        "state": "Tir.",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-12-05T08:26:38Z",
+        "updated_at": "2021-05-15T02:14:24Z",
+        "total_elevation_gain": 127.7,
+        "map": {
+            "id": "s6147200",
+            "polyline": "{`laH_~|hAe@p@GV_@n@?D[n@@`@KdBERWl@At@BCDi@^qAf@cAHWR_@j@i@NERDTVTHd@@HGp@eAASTa@r@qBHMJIFCD@?Je@lAIv@@rAAdANhBEd@[~@@FCVEJAVHNLALQPa@t@u@BIV]@IXa@H_@PoAA[Pw@FIF@",
+            "resource_state": 3
+        },
+        "effort_count": 1900,
+        "athlete_count": 663,
+        "star_count": 3,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "5:23",
+            "qom": "6:41",
+            "overall": "5:23",
+            "destination": {
+                "href": "strava://segments/6147200/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 34820649,
+            "title": "Thomas Seidl",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/34820649/27677174/2/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                "overall": "3 efforts",
+                "female": "2 efforts"
+            },
+            "destination": "strava://segments/6147200/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 33258874,
+        "resource_state": 3,
+        "name": "\u00fcber Kaltwasser zum Pendling",
+        "activity_type": "Ride",
+        "distance": 7187.6,
+        "average_grade": 9.0,
+        "maximum_grade": 23.7,
+        "elevation_high": 1513.6,
+        "elevation_low": 864.6,
+        "start_latlng": [
+            47.581068,
+            12.11225
+        ],
+        "end_latlng": [
+            47.573183,
+            12.111923
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CDRY4VDTOAYBSZE2BM3KTPTZYWYAP4CEJ5GJTOOSXT4KYG3QJAKA5HA2A66I4KIJYADTR3KAS6M5SZFD35JSARY=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CDRY4VDTOAYBSZE2BM3KTPTZYWYAP4CEJ5GJTOOSXT4KYG3QJAKA5HA2A66I4KIJYADTR3KAS6M5SZFD35JSARY=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AR34IPEGGVPIKYNVQ6OGUSR42O2C6VSCPAXVW4GYJ4WFOT3OPB2CR2Y5ZUHUIBE4G757ULCVY6LJDFPW2EIHPPQ="
+        },
+        "climb_category": 4,
+        "city": "Mitterland",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2022-11-11T08:37:14Z",
+        "updated_at": "2022-11-11T08:37:14Z",
+        "total_elevation_gain": 676.6,
+        "map": {
+            "id": "s33258874",
+            "polyline": "sdlaHqt|hAZm@Ha@HOLQ\\YLWLMLEL@HDFJLl@JJXA`@]HCf@q@Jo@VUFI\\s@d@o@HYFA@NYvAKz@@ZAZ?`@D^DPCz@@v@k@pBCN@VDXLDFGFMLg@dAeATo@He@@i@Fa@Vk@X_AHEF@@LEZO^EZ?XDj@?ZEx@A~@KdA?ZBdBH`@J`AErA@jAPn@F^Bf@BTj@dADRTlADb@FI?KKc@Eu@NmB@o@NaBFoADWBCHBDF@HKv@Fl@^~ABj@Rn@ZxAFn@Vr@L~AL^LVd@V@j@BRFPNNZRPTTzA\\l@JZb@zAhAvETv@VhA\\bCRr@Lp@\\x@XXTPHNHVV|AVj@JHTHNLf@x@`AjALR|@~BZbBFl@Pl@Jh@Xx@^rBHfATn@D`@Ef@Mv@U`DEj@?l@LrAJl@@jBLp@DfABTRVBRA^FfAFNRZJJXPR^h@|A`@d@ZXFLNPNTZ`APVH\\n@l@`@l@?^FFL?Pg@DY?SC_@@CLGLFBDZfADDHXJj@HNBVJNC\\Jv@Nb@V^L\\x@v@FAr@QVQ\\]FARGX?PGLOFOFm@Py@JUlAiALG^FLJ\\L`@Vf@tBJNH?XKh@Gz@a@^EJE`@a@^gAp@s@BUCGG?YJm@b@[D[E_@KWSa@o@Yq@Ie@E}@EWaAaBQ]q@y@Qc@C]@MLOr@]RA\\Jh@b@b@VXD|@?z@XRJLCKU}@k@c@_@i@aAa@]AMHENDXXNFj@G\\J~@LFAPUDUDmA`@oAF}@RkA@yBDaBCkCIi@SU_CoA_@[u@y@y@kA[{@U[ICOM]k@[qBD{BIs@GSC]Ia@Dq@D_@To@Bs@KMIB{@rBEDCAEGAMLoANk@AmAKe@GG]Sm@Ue@]c@k@aBsC_AoASQCCe@Am@Zo@QYWGQUgAWw@oAaCK_@M}@m@mFGOUQ_@Ms@w@Mc@KgBUg@qAiAUY[gA[oCWs@Ua@MQy@qDUWAI?mA_@oAi@u@u@_@",
+            "resource_state": 3
+        },
+        "effort_count": 1255,
+        "athlete_count": 296,
+        "star_count": 0,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "34:29",
+            "qom": "44:46",
+            "overall": "34:29",
+            "destination": {
+                "href": "strava://segments/33258874/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 34820649,
+            "title": "Thomas Seidl",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/34820649/27677174/2/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                "overall": "3 efforts",
+                "female": "2 efforts"
+            },
+            "destination": "strava://segments/33258874/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 4479790,
+        "resource_state": 3,
+        "name": "TT Zirl - Telfs - Zril",
+        "activity_type": "Ride",
+        "distance": 21437.0,
+        "average_grade": -0.0,
+        "maximum_grade": 12.9,
+        "elevation_high": 622.8,
+        "elevation_low": 597.1,
+        "start_latlng": [
+            47.278024,
+            11.227253
+        ],
+        "end_latlng": [
+            47.278157,
+            11.225507
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5JYWYNQ4MML3KJCUIRNQY67LUPNBUVNA4JBLBXQ5XYSW2DSNZ67DZXRUXCNBDGU7ES73WQQ6AMXGG4NRACYZMDBS",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5JYWYNQ4MML3KJCUIRNQY67LUPNBUVNA4JBLBXQ5XYSW2DSNZ67DZXRUXCNBDGU7ES73WQQ6AMXGG4NRACYZMDBS",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/744R2PEAC3VA7AR7HGNU4IVLA6XKQWP72KF42P7YNGWFE7RXIGS3B7XQ6TZEGHGX2IFTVHV5SEL42XNMBLFGFLZS"
+        },
+        "climb_category": 0,
+        "city": "Zirl",
+        "state": "Tir.",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-06-21T15:41:45Z",
+        "updated_at": "2021-05-18T08:03:07Z",
+        "total_elevation_gain": 242.4,
+        "map": {
+            "id": "s4479790",
+            "polyline": "s~p_HiyocACd@B`@E`@BZC\\GXC\\UzAGx@QrAQr@Ip@o@nAG\\A\\Qn@Mp@OVW|@C`@On@AXi@hBQz@AT_@dB?dBGv@IT?r@MlB?\\B\\AZI^CZ@VUx@ARD^QhA[bECrAFvACp@F\\?ZG`AKPEZITC^Mt@A\\Kx@?`@I`@E\\D^^pB?ZDXLbBV`BHnA?XHlA@t@Dt@ChCG\\B\\I|@Yl@eArCOVe@xACVs@bDBfC?hBD^@b@E`AB|@Gf@NxA?~@@^AdA?`FDZA~@DX?jADjAAZD^GZBf@A^KVI\\MrB?^E|@M|@M|A_@rBy@~C]n@_@rAWpAIPERMXYV?\\KXi@~AQTUr@YlA_@t@A\\IXq@bBSv@q@`BwBjBe@f@UJWCQBQNs@hAE\\IZe@nAQv@M~@Qz@CZMVIZEvAOt@Ax@G^Cf@GXOr@KTA\\GVMTI\\Q~@KVYnAKN[dBKVMv@ITA^a@vBCnAO`CBVCVN~@@^Bp@AXGTQ|CKx@?\\E~@Id@?XIZC\\@VCZD^YnAC\\@XET@ZEx@AvCG`@?x@IvAYdDMfEGv@MXEX?VG~@@b@E^IVEVAt@EVIzAUtA?XK^Gx@Wp@I\\CX]bBc@bBMZAV?\\GVMP[lAMVIVO`AKVYdAAVWjA]nAa@`AAXU`AEZORKX_@d@KVAT_@fAC\\IXGl@M\\g@bBCXMVE\\Ql@OTI\\D^C^@Zc@fCc@\\MPUj@EZYVKRG^C\\ITCTMTOp@c@b@I|@Qd@C^INGTC|@EVA~@Dd@Qh@BZMr@MnA?ZOf@OlAOl@AXw@jCWfAqAfCc@n@GTKPSPMRONMDOLSZSh@AR[b@CPKVMNIPSl@KPA^ETIRKPK\\ILGZWh@GVAd@]hAWjAAXIPGTML?^Uv@QB@JMLBXIH]|@Gh@S\\g@pCETKL?TEp@ET]b@[z@MFK^CZGL?\\Oj@Ed@Y`@EVKP[jAEXOb@Qr@CVKRg@jBEXSn@Sp@CVMPGVYv@A\\e@rBE\\Yd@Mn@Wt@Qp@CZm@|Au@|BCZOv@g@~AORUj@CZIHSp@KRUPA\\Mx@?d@SzAEf@GVOXB`@KREZUh@UlAy@pCOv@Sr@Mt@{@pD[bAk@hCINe@fBIr@Yp@G^e@~AE`@Sp@KNOp@Sp@Ox@]bAe@fBKPC\\{@nDWp@MHQt@MXG^s@hAIVKJGTKPOPOHgAbAa@JKPMPe@XW^ULMLa@Pm@n@KFKRo@`@gA~@i@dAKHWb@KL]TW\\q@hAIDILGRW`@GTSVG\\MNYt@A^Ul@c@~@EZQl@Oz@Db@GFSp@OZa@j@UvAQNUr@Ml@ITOT]~@]j@Or@SNc@dAQVQx@Qd@MRAdAQVMZ[jACXBZG`@DZERKT?ZQt@CXB`@K|@?\\OpBCz@I`BD`CL^A~AIx@Bb@PlA@`@Ep@M^^bAT~ALjA?VBXNR]XF?G[JUCK@c@UiAE_@DUSuA@WQq@DW@u@UqAOa@Eg@?WZ_CPcEAeBJq@JWFmBFY@[Jq@@]Ns@JsAHSFcAX_ARiA\\{@Z_ADUHS\\m@Tg@LKDWXe@Hs@Re@@QTm@VoAJSFYBg@Nm@HKFU\\e@f@aBB_@LWRq@Vm@JILULs@Xu@Fe@HWb@y@LSPSb@]NELQRMj@eAVs@`@WLSVCPOn@WTg@NO`@eANQTORANWZIROh@Wh@a@j@i@@WPSPc@ZS`@_@`@k@b@gAPQT_A\\s@DY\\mAD_@Ry@H[NOJYB]Po@@c@b@wALyAPYFWFq@LONu@f@_ATw@PsAFY@WHOVgAFg@PULc@@_@Ru@Zm@Lg@NcAHS?ILU?_@Rk@Ze@DYJWf@uCLMJUBULYPOD[Aa@NuAVcALgA\\kBPMC_@FWJUVoA\\gADYTSVgAB[R_ALSDSXk@NMHYPUDy@Rq@Rc@FW?YX}@Xg@Ru@Fa@b@mAA_@Rs@NOLkBb@sALS?ULi@FQ?]Fe@Jc@To@Z[PuA`@cATq@NIf@_BLKN}@Tq@Py@HYLQDUJYD]T{@D]`@a@Bc@H[@_@VsATy@?YHSASL{@TEJeAHUL_@LSH[TWTk@Ni@HS`@c@Xc@F[To@n@k@CWP]PQJWLONWRUd@w@POBUVeAZi@L[LcARYHkAHOBUJODsAJMJYHa@J}ADyAD[Aa@XyCA[LQE]PQBa@HQRw@RKDKh@iCT_@POXq@f@_AD[La@@SPURk@Dc@?e@H]Xs@RMF_@NOJG@aAHUTW@c@H_@@e@Hs@F[T[FYCa@Nq@RKEUHk@Je@`@}@D]ZcAD]RUFg@R}@JWTgAZcA^{BPMBYn@kCLWTo@N[DWNSDiAPq@Dy@Jo@H{@@y@J{A?c@DQL}BHsDJq@?[F_ADWEWLo@A{@Dy@FWFu@F_DHUC[JuAHyBHu@BoACcAIo@H_@BWA[NQHuAAYLS?g@B[DSCYHkAA]Jo@Gc@JYDyAA_@FWHUG]JSBYCg@J_@?YDWPKLOBYHSD_@HQf@qCDWTg@D_@HEHwAPg@Rc@H[D]Rg@?_@D]DqAVqABo@J{@BSLWH]HSLw@d@qARGPk@NUPGJO^Sb@]f@QTMl@e@BUb@s@Te@RST_@F[b@oAB[Te@BWd@aBPG@WHIB[TGDm@NUBi@JSHw@L_@?a@L]Fa@X[RIFUPQPGHw@Vg@FSZ}AZmABYE_@LWC_@Ja@@OJOG[PMG[@e@EWH]Fy@LW@_@AULMOaAFK?}@IYAYK]IeADSKoA@u@CU?i@D[HwBAaA@[E]?YCYA_BDQQaAO}CDIEsA?YHQ@kADUNOHgADQXe@BUFU\\{@AODQXa@DUFKBSXcA@[ZmBA{ABSBq@?iAI}@]gBAY?w@M{@Cs@OgA?mADWEYA[DSA{@PoAHWF}@^wCES@YDWAa@EU@oAGw@H]Gy@?[DU@w@FORyCLmAH]E[?_@HOAa@F[B[Ag@BUC_@HKFSBc@D[B]B{@DS?c@FQDYNk@BWf@yAXaBLUN{@Pg@LSLm@JiAF[JIPq@Bc@HU\\oAPkA",
+            "resource_state": 3
+        },
+        "effort_count": 3958,
+        "athlete_count": 930,
+        "star_count": 13,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "26:15",
+            "qom": "30:10",
+            "overall": "26:15",
+            "destination": {
+                "href": "strava://segments/4479790/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 24656431,
+            "title": "Fabian Irsara \ud83e\udeb7",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/24656431/11618183/16/large.jpg",
+            "effort_description": "7 efforts in the last 90 days",
+            "effort_count": "7",
+            "effort_counts": {
+                "overall": "7 efforts",
+                "female": "3 efforts"
+            },
+            "destination": "strava://segments/4479790/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 5268576,
+        "resource_state": 3,
+        "name": "Seefelder Stra\u00dfe Climb",
+        "activity_type": "Ride",
+        "distance": 623.0,
+        "average_grade": 13.5,
+        "maximum_grade": 23.8,
+        "elevation_high": 827.4,
+        "elevation_low": 743.6,
+        "start_latlng": [
+            47.281607,
+            11.225964
+        ],
+        "end_latlng": [
+            47.282521,
+            11.233882
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QI6WX24CDHN4QQJOCTYIDVCNRCAF2TKBS7Q66NMILGJ4PIQ77UVI5ZPK34YPKVMXUY6XDGXH7QLUX5LQMJHJXBAW",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QI6WX24CDHN4QQJOCTYIDVCNRCAF2TKBS7Q66NMILGJ4PIQ77UVI5ZPK34YPKVMXUY6XDGXH7QLUX5LQMJHJXBAW",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4N3FBMGAXCCD3L5OMQ72ZE52XO5S4KPSGKXUBOSD6RVCULEIAHH5L7EQF7HR62RAABI22PQI2NZDSRQ6LQVPSIHW"
+        },
+        "climb_category": 1,
+        "city": "Zirl",
+        "state": "Tir.",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-08-26T08:54:29Z",
+        "updated_at": "2021-05-17T08:04:38Z",
+        "total_elevation_gain": 83.8,
+        "map": {
+            "id": "s5268576",
+            "polyline": "_uq_HgqocAJeBEy@QmBCkAAsFH_FCuBEgAc@{DIc@yAcGQaAEIAQCA",
+            "resource_state": 3
+        },
+        "effort_count": 1672,
+        "athlete_count": 1390,
+        "star_count": 2,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "2:50",
+            "qom": "3:48",
+            "overall": "2:50",
+            "destination": {
+                "href": "strava://segments/5268576/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 181233462,
+            "title": "Magnus Heidegger",
+            "profile": "avatar/athlete/large.png",
+            "effort_description": "11 efforts in the last 90 days",
+            "effort_count": "11",
+            "effort_counts": {
+                "overall": "11 efforts",
+                "female": "2 efforts"
+            },
+            "destination": "strava://segments/5268576/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 29548925,
+        "resource_state": 3,
+        "name": "Zirl-Mieming Loop",
+        "activity_type": "Ride",
+        "distance": 51048.2,
+        "average_grade": 0.0,
+        "maximum_grade": 14.9,
+        "elevation_high": 884.6,
+        "elevation_low": 610.6,
+        "start_latlng": [
+            47.27797,
+            11.227923
+        ],
+        "end_latlng": [
+            47.277924,
+            11.227936
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DWAXMNAF74WIUQLY3VYGL3YHDVJO6PO3CA2XK6VYCHOM6LXZF334OCDNP7OVISLEYVY67LGESIJMDZMLHI34MIY=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DWAXMNAF74WIUQLY3VYGL3YHDVJO6PO3CA2XK6VYCHOM6LXZF334OCDNP7OVISLEYVY67LGESIJMDZMLHI34MIY=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AY65HUJWGIQGV2MTV57IPZ3XW7ZYYINW5MOE3R5RMOUAOOL6SCDD7W3CUGZKDEUMG6QRNM7LFROTN73JFXXLSOA="
+        },
+        "climb_category": 0,
+        "city": "Zirl",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2021-08-18T19:05:25Z",
+        "updated_at": "2021-08-18T19:05:25Z",
+        "total_elevation_gain": 346.2,
+        "map": {
+            "id": "s29548925",
+            "polyline": "i~p_Ho}ocAA`CK`Bk@bGMdAUfAu@`C_@zA{BbK_@vBWdCYzEAx@SlCInB]vDGzB?vADdBCxAIrAOnAOr@Gr@IvA?r@j@zI`@lFDjAAnAInAUpAe@jB_CjHIZC^KbC@|BPhJHtKHjE?r@EdC_ArLSnAiBrGkD~KeBfFkA~Ce@~@m@t@OLeAt@aAt@]^u@hAMR_@hAYhAMt@YdC]dDo@zCe@dCu@tCu@lDm@xDShBMjBe@rJGrBKlB_@|HEvAq@hLa@bL[|FSfCk@tDUhAeFlSk@dCmBxHe@fBqBrIqAdG]jAkAdCe@zASp@m@xC[jA_@hC}@bKYhBOr@q@tBk@|Au@tAoEdH{@lBi@`BcBtGo@vB}@rDaB|Fm@`CmAfE_AtDy@tC}AbGe@nBUn@uB~H_@fAu@zC]hA{A`GmAbEUjAa@~BQl@_@vBa@bB}@fDq@tCyExQe@`BiAbFUn@wCpLs@tBWh@u@lAcAvAoAlAq@`@}BhBmAdAeChCi@r@kBpCg@`AiAdCgAlC}@xCqBlH}@~BoB~Do@bBUt@_@lB]jCo@~FQtBMtCErAAtB@tADrCThFt@rGv@rFTpABjADTX|@DZzAvKd@nEhDtUvA~KZnBb@jDr@`Fp@bFHv@`AzGh@fEb@nC`AxH`@fC\\jC^jCTrB\\fBz@dGb@dEXpB\\tC@j@C^BRLPPJZb@v@bB|AbCr@rAd@dAf@vARt@h@|BT|ATfAd@xAf@nALr@HLl@TpAz@bAj@RNV\\FDRAl@Qb@EdK_@z@@\\D^H|@^\\X\\Zh@v@n@zAZpANxADz@@xBG`BIhEIz@Qj@EV@VZ`ALp@d@xDb@xBZfAp@pBx@pBd@|@\\d@Vh@PPlA`Bf@|@hAbBj@|@f@dAb@hATr@`@nBh@fETnDVxCRxAhA~GXrATt@r@dD`@lCf@jEPrBPpCFvBHvAA^NdGZdE^jDb@fDNx@h@fCTvAVvCTnDHpC@lFWvTGzIEpBKdMG`DApDHhHDfBLdBl@hIj@xG|Dh_@b@rCf@nBb@lAVp@r@zAvCnEfAtBx@~Bd@jBNv@XtB\\lBNtAlA|Hb@fDNv@|A~Kb@bCf@dDv@tErAbH|BdNxAhKfArGVnBpA~H|@`GZ~CPdCp@dI~BdQRlAb@vD`@xBp@vCr@lCPjAZ|@NlAV|BZhEbAxV`@tG\\jEZtC`@`CThBh@|CdAhFZdBb@dBl@zC~AhIJr@TjAbAhEb@`C\\jAThANn@Lr@t@nB`@~@jAvD\\x@lBbEfApB\\v@LJL@LKRc@Ho@Aq@EUKUKOOKQCQ@OFg@Xs@l@QXe@Vi@l@i@b@{@nACNBNDJz@d@^VL\\B`@E`@gA~FSf@KNQJSDU?}AM_@GmAEsCU_DOi@BoAXw@ViCtA_Aj@o@VSDQEIUGm@C}@ESOq@Ye@e@_@s@c@wAc@[Go@BgBAM@{@CWBaA@yARaKhBW?WCs@SC?_@b@k@bASRKDUFU?_@MQOUc@G[G[?s@D_@Le@R[RUl@_@pAi@vA{@p@i@|@}@lA{@l@YxBu@`@SdA[VKf@[b@e@Vg@Rm@Lq@De@@u@Ae@K}@K_@]aAk@w@iCcFi@aB{AcFc@iAQ]u@eAa@g@WSaAo@aA[m@MeGo@aAQw@U}@]mR{IeBq@_@K_AQ_@Cs@Cq@@a@BuAToAd@qAv@kAfAeAtAe@z@u@fBa@rA[tA[jBkCzR]xBSr@_@v@_@^c@T[FS?]CQGe@ScBsAa@W}@UaAMk@Mq@WsAo@e@KUCS?_@Bk@Pq@h@i@f@eApAKDK@ICUSSa@cCkH_@qA[uAOaAKyAA}ABiAP}CVoCRmAToCHyCCyAKsA[gCcBkHe@_D[aDOiCAw@IgBWoP@o@FgAR{AzByIzAqFTwAVyCD}A?_AC}@SuCG{AMuA[cGIu@Kw@UgAg@_B_@aA{@eBcCkEWi@i@{Ao@sB}@mEc@_BUo@uEqJgAsBmAmCWs@w@aC]mAy@_Cy@wCaAwCcAoDyAgE{@_Cy@oC[w@}@kCa@uA]cBWkBOgBYkBMsBAqBBiAVgFJuCbAmVRqG\\}GJkAPoAx@uD|@uD^kBZkB\\yDLuC@cAPgHJ{Eb@qPNgBR_AV}@\\u@^m@vHwJ~CuDb@s@l@qArAuDb@}AR_ApA_Ib@}CR}BDcA@cCI{CC_@W_Bi@uC_CiN]{CE_AAgCJmDFyF?c@UqDGc@yAsDK_@SaAKgAAe@Be@HaAJkBNeJAm@Gm@WwAOg@w@sBqAyCKo@gAyCu@iB_@iB{@aMYmHAyBKuBCaBGs@YcBCc@D[LYRY`A}@TWb@q@j@oA`@k@TOh@SvBgAh@_@TALEDIHiAPg@HOpAyAdCuBd@k@Rk@Nm@RqALGF@NTDJBFHAHEj@w@hBkBXc@VYPK^GF?XJZBJCDK@MEMa@e@KQ_@{@Sk@a@eBo@gD}@aDe@kAg@gAeAgBc@cAy@uAWw@MUg@uB]{Cq@gF}@cGgGqd@eBkLwB}POq@}@gGIy@iAcISgBe@cD{AgL[kB_@cDa@eCe@gDKsAAs@CW]}@EWWyBi@iDGYIUMq@CqAUuCOgECyD?aDHeD\\sE|@oHh@qCt@gCRg@lAaCjAuCzCkK`BoEt@aBvAgC~BgDn@s@pAqArDyChAy@hAeAn@y@l@{@f@cAb@iA^kAnC{KnCiKv@aD|HiZb@}Bj@qDb@cBRm@n@qC^kAFWp@}BVgAp@}BXiAhDeMTmARq@Nq@bA_DnB{HZcAz@cDd@{ApH}XZaA`A{BrA}BzBmDl@eAn@_Bh@gBb@qBPeAhAoL\\wBfBoHf@uAfAyB\\gAHs@j@uCHo@l@sBnAmF~AeGpDmO|BuIbA{ETiBLgBN}C@s@XkFJeC\\eGRqFHmAZ{HDYl@mN\\cGb@_Df@wC|AmHbAcERiANmAP_C`@sC^}APk@Ve@f@q@\\]j@e@zAcAj@i@V_@Vc@`@{@rBgGxAoEnE_Oz@cEHgBh@yGDqABqAUkO?uBIoBKgJBgBLiAVqApCyIX_BJsA?aCMkCOcBe@eEMsBCwA?{@Fy@B[VqANqAJqA?w@IqAAsA@sABw@D_@f@kILwA?YLsBd@kGf@kCvAcGh@kCRw@j@gBZsAPy@L{@n@cI@[?yB",
+            "resource_state": 3
+        },
+        "effort_count": 19,
+        "athlete_count": 13,
+        "star_count": 1,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "1:26:57",
+            "qom": null,
+            "overall": "1:26:57",
+            "destination": {
+                "href": "strava://segments/29548925/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": null
+    },
+    {
+        "id": 1973707,
+        "resource_state": 3,
+        "name": "Wei\u00dfachgraben 39b Climb",
+        "activity_type": "Ride",
+        "distance": 1150.72,
+        "average_grade": 30.3,
+        "maximum_grade": 178.3,
+        "elevation_high": 1496.2,
+        "elevation_low": 1147.6,
+        "start_latlng": [
+            47.48428411781788,
+            12.277923412621021
+        ],
+        "end_latlng": [
+            47.49376648105681,
+            12.272861329838634
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DM2II56JZ4BSDAJFUVAXFSFI3757FFNNBQ3VMFYUVLXUI3A27QZJ5CYXU5CXPZU5JEAXDCGUUNFK2YBOR7LNXPRW",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/DM2II56JZ4BSDAJFUVAXFSFI3757FFNNBQ3VMFYUVLXUI3A27QZJ5CYXU5CXPZU5JEAXDCGUUNFK2YBOR7LNXPRW",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZXLFSGW5WFLBGUDOZBWDB55M7H27PDPNZEIZZA4BHESEKNMIKCTORY7BBKXM54SIKGFVBJCSE52KKKFD55AOL7AE"
+        },
+        "climb_category": 3,
+        "city": "Ellmau",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-08-04T16:16:41Z",
+        "updated_at": "2021-05-15T02:12:19Z",
+        "total_elevation_gain": 348.6,
+        "map": {
+            "id": "s1973707",
+            "polyline": "wgy`H_`}iAm@VaErBQF_@FWNo@l@_@PaAt@kCdAoA|@k@TkB~@yAx@sBx@yDrBcElB{BlA_Br@yC~ASVeAqAKE",
+            "resource_state": 3
+        },
+        "effort_count": 109,
+        "athlete_count": 336,
+        "star_count": 0,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "3:47",
+            "qom": "4:00",
+            "overall": "3:47",
+            "destination": {
+                "href": "strava://segments/1973707/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": null
+    },
+    {
+        "id": 21550419,
+        "resource_state": 3,
+        "name": "Auf zum Ellmi",
+        "activity_type": "Ride",
+        "distance": 332.2,
+        "average_grade": 11.3,
+        "maximum_grade": 17.4,
+        "elevation_high": 1495.3,
+        "elevation_low": 1457.8,
+        "start_latlng": [
+            47.494181,
+            12.277589
+        ],
+        "end_latlng": [
+            47.492802,
+            12.273863
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CWZAFW6GY4Z57LW75QY6GAJEOKTBFLWU34SVYX7LVGQ7RECXH3NMKMAWT4VYE5QEXREKOU4TVJZVZP6K2KGN46A=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CWZAFW6GY4Z57LW75QY6GAJEOKTBFLWU34SVYX7LVGQ7RECXH3NMKMAWT4VYE5QEXREKOU4TVJZVZP6K2KGN46A=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CNIYDB7RQBHACMIBLKAUKXBLXBP75PEUMKT2NUXKDRHTT6OJYNP5MQXBXA7JDSXVEAD2HSGSWOI5UR6UYLQFSMQ="
+        },
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2019-08-21T18:12:26Z",
+        "updated_at": "2021-05-17T08:08:25Z",
+        "total_elevation_gain": 37.5,
+        "map": {
+            "id": "s21550419",
+            "polyline": "se{`H{}|iAn@jBdA~Ar@hB`AvBZ|AJzE",
+            "resource_state": 3
+        },
+        "effort_count": 320,
+        "athlete_count": 291,
+        "star_count": 2,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "1:21",
+            "qom": "1:59",
+            "overall": "1:21",
+            "destination": {
+                "href": "strava://segments/21550419/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": null
+    },
+    {
+        "id": 2195625,
+        "resource_state": 3,
+        "name": "Wei\u00dfachgraben 39b Climb",
+        "activity_type": "Ride",
+        "distance": 628.677,
+        "average_grade": 26.0,
+        "maximum_grade": 52.1,
+        "elevation_high": 1526.2,
+        "elevation_low": 1361.2,
+        "start_latlng": [
+            47.494709,
+            12.265124
+        ],
+        "end_latlng": [
+            47.493328,
+            12.27282
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SQTUSNOWATXIHEINAOFO6USW7IJCEVOPX5Q4O5BMC5DST4M2LOUKTCK74U65U2I655VKRXLOFZ3EISP5FC42CTYV",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SQTUSNOWATXIHEINAOFO6USW7IJCEVOPX5Q4O5BMC5DST4M2LOUKTCK74U65U2I655VKRXLOFZ3EISP5FC42CTYV",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/CILXLLWSZHNYNDPWVGGIG255CVZVTGGPVVNMKJDTTGO6LNTZJ35ZY4IJTF6FTA5A7POTSDFDO5UJTHOQ4PKLGND4"
+        },
+        "climb_category": 2,
+        "city": "Ellmau",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-08-22T19:39:10Z",
+        "updated_at": "2021-05-15T02:12:23Z",
+        "total_elevation_gain": 165.089,
+        "map": {
+            "id": "s2195625",
+            "polyline": "{h{`H_pziAJu@FiAPoALeBJ}AAWXwDF}Ab@kE?i@TkCBy@b@eGFWJSx@_ABOCC@@FAA@CA",
+            "resource_state": 3
+        },
+        "effort_count": 658,
+        "athlete_count": 450,
+        "star_count": 0,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "4:09",
+            "qom": "4:24",
+            "overall": "4:09",
+            "destination": {
+                "href": "strava://segments/2195625/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": null
+    },
+    {
+        "id": 39369737,
+        "resource_state": 3,
+        "name": "Hartkaiser steep climb",
+        "activity_type": "Ride",
+        "distance": 919.5,
+        "average_grade": 10.8,
+        "maximum_grade": 24.8,
+        "elevation_high": 1516.4,
+        "elevation_low": 1416.8,
+        "start_latlng": [
+            47.496673,
+            12.277271
+        ],
+        "end_latlng": [
+            47.494097,
+            12.272057
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5WRV54PKDAONC5WO74WZLE7OLBYOWPYBJTISUU4KGYVCN2L2XG5IZDM2TH3VH66I4DO5Z5DOPQQW4CWZOTDF5DLI",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5WRV54PKDAONC5WO74WZLE7OLBYOWPYBJTISUU4KGYVCN2L2XG5IZDM2TH3VH66I4DO5Z5DOPQQW4CWZOTDF5DLI",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SRWZXYSCORFGXQ7SRGNXT5KHS3NMQVKQAHFKR2EZUAIWTQMWBWA4FOOTQY5UNA4JXNVMPQ4GQQ2WG3F2KVNP3PQZ"
+        },
+        "climb_category": 1,
+        "city": "Gemeinde Ellmau",
+        "state": "Tyrol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2025-06-10T12:45:08Z",
+        "updated_at": "2025-06-10T12:45:08Z",
+        "total_elevation_gain": 99.6,
+        "map": {
+            "id": "s39369737",
+            "polyline": "eu{`H}{|iAn@Sl@YVSNEh@GVYRa@d@o@R]Pc@`@_@TMXG\\@PJFH^tADL@ZCNU|@c@~BUrAC^@x@Db@P`ATl@Bl@ClADd@Hd@Bf@Ch@Qj@SxASxC?dANnBLTF?HIZ_@Vc@VW",
+            "resource_state": 3
+        },
+        "effort_count": 124,
+        "athlete_count": 90,
+        "star_count": 0,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "3:58",
+            "qom": "8:09",
+            "overall": "3:58",
+            "destination": {
+                "href": "strava://segments/39369737/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 32135504,
+            "title": "Gian D",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/32135504/11772880/3/large.jpg",
+            "effort_description": "4 efforts in the last 90 days",
+            "effort_count": "4",
+            "effort_counts": {
+                "overall": "4 efforts",
+                "female": null
+            },
+            "destination": "strava://segments/39369737/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 2195631,
+        "resource_state": 3,
+        "name": "Hartkaiser   Hochs\u00f6ll Climb",
+        "activity_type": "Ride",
+        "distance": 997.132,
+        "average_grade": 31.5,
+        "maximum_grade": 55.1,
+        "elevation_high": 1573.3,
+        "elevation_low": 1259.4,
+        "start_latlng": [
+            47.484679,
+            12.274938
+        ],
+        "end_latlng": [
+            47.487452,
+            12.262865
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GYMWS75OCSPHIDHB322GXXZEO6WEOQZC2ROXL2MHFRYHRI3SHKBXVM6QQITMDTNPR7T2HQCL6MP7XY25EIB4ASI=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GYMWS75OCSPHIDHB322GXXZEO6WEOQZC2ROXL2MHFRYHRI3SHKBXVM6QQITMDTNPR7T2HQCL6MP7XY25EIB4ASI=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PTR2PQPCBHHJ7JGESXUGSIM6GXRHYCR5AGHSYHXSBF7ROTVYIT7ZLHX7GBZFLJGLN4ZVL6YXYVNXYQKZ5BAHSHY="
+        },
+        "climb_category": 2,
+        "city": "Ellmau",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-08-22T19:39:27Z",
+        "updated_at": "2021-05-15T02:12:23Z",
+        "total_elevation_gain": 313.485,
+        "map": {
+            "id": "s2195631",
+            "polyline": "ejy`Him|iAOHKRC^BZCXIn@?\\CV?x@Ef@ERU`@YzBIP?JELI`BG^KTK`AIPClAMj@Ej@QpACpAIb@EDY`AKnBMb@ARMl@CrAS`AKVGf@ITMVAFKnAGTATOz@QlAENK|@EV?\\Ep@CPUn@Ir@GV?`@Eb@Y|@E@CAIB?A",
+            "resource_state": 3
+        },
+        "effort_count": 719,
+        "athlete_count": 522,
+        "star_count": 0,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "3:21",
+            "qom": "3:48",
+            "overall": "3:21",
+            "destination": {
+                "href": "strava://segments/2195631/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": null
+    },
+    {
+        "id": 2251268,
+        "resource_state": 3,
+        "name": "Wei\u00dfachgraben 39b Climb",
+        "activity_type": "Ride",
+        "distance": 1967.73,
+        "average_grade": 10.2,
+        "maximum_grade": 30.3,
+        "elevation_high": 1519.3,
+        "elevation_low": 1318.0,
+        "start_latlng": [
+            47.48869625795281,
+            12.281081511998934
+        ],
+        "end_latlng": [
+            47.491145001668926,
+            12.268504593627949
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HUZPMVGQL5NJADIMGC3HWWRFO7JYWGRCHSCNFMJETOC63EFCBHITU4QTAQWS2CQUIRD2L4L4VCPUCZI33GGOBHQ=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HUZPMVGQL5NJADIMGC3HWWRFO7JYWGRCHSCNFMJETOC63EFCBHITU4QTAQWS2CQUIRD2L4L4VCPUCZI33GGOBHQ=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/6TBMCHNCQQWNFQ73KDIVW557NA6IOOIR7ZYZJPDATTX5RYGJ4SFD4S3QIK5YZ6NOXOJR46NKFKJHE6JFVVJIDWI="
+        },
+        "climb_category": 2,
+        "city": "Ellmau",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-08-29T15:51:54Z",
+        "updated_at": "2021-05-15T02:12:25Z",
+        "total_elevation_gain": 219.972,
+        "map": {
+            "id": "s2251268",
+            "polyline": "icz`Hws}iAl@tBJrAExBE^Cj@G\\?L@p@RzCBnAHf@?lBGv@?RBd@?lA?HBD?r@Ft@Cn@EPGt@Cp@M|@FlBHf@Bn@El@Av@Ef@Uh@ELET@LI`@?J@HVVNHFADDBRCFI@WGQBMCOKKQOy@Cs@K_AI[IOI[SsAUeAC]Sk@@KIGI@GDIHFLAHGdAGb@EbAMhB?PH\\?JKdA@h@InCFzAPr@P`BLV@Hh@z@PVVJNXFRB`@I`@Fd@VZXTHP`@^BFCJCBK@EBMCO@IEU@MEo@g@Ya@k@WMUi@[EIKEK?AKSOEKK[Ge@a@[]Be@`@G@ORMFGFUF",
+            "resource_state": 3
+        },
+        "effort_count": 853,
+        "athlete_count": 423,
+        "star_count": 3,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "6:40",
+            "qom": "10:19",
+            "overall": "6:40",
+            "destination": {
+                "href": "strava://segments/2251268/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 138577564,
+            "title": "Martin Hoeck",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/138577564/31575564/3/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                "overall": "3 efforts",
+                "female": null
+            },
+            "destination": "strava://segments/2251268/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 3052837,
+        "resource_state": 3,
+        "name": "Penkenberg 626 Climb",
+        "activity_type": "Ride",
+        "distance": 1132.03,
+        "average_grade": 30.9,
+        "maximum_grade": 47.6,
+        "elevation_high": 2078.7,
+        "elevation_low": 1728.6,
+        "start_latlng": [
+            47.161656618118286,
+            11.807218194007874
+        ],
+        "end_latlng": [
+            47.16927409172058,
+            11.800469756126404
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JC74NRX7N4XQSY2WMBOIJTZUFYJOXDR27KKOY4XHYFL62XXLOVC5HHXQ66BDF62K7CZT6647ZVODSFLUKSBMW6K7",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JC74NRX7N4XQSY2WMBOIJTZUFYJOXDR27KKOY4XHYFL62XXLOVC5HHXQ66BDF62K7CZT6647ZVODSFLUKSBMW6K7",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PP3BJPQ6TH65RIYP7VVCSYG73QJXSJFALUYY74MRKLM2HRYD3656CXMQ2QDH4FHKNZVCGQSB2GGOKN5X5I5FBBJQ"
+        },
+        "climb_category": 3,
+        "city": "Finkenberg",
+        "state": "Tyrol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-12-25T17:42:20Z",
+        "updated_at": "2021-05-15T08:02:53Z",
+        "total_elevation_gain": 361.778,
+        "map": {
+            "id": "s3052837",
+            "polyline": "igz~GabagAEOSEAG@FIREBEAKL]`@gAhAqAxAgChC_@b@m@h@m@p@iA~@KTsArAo@~@{AvAOPcBbBgEpEu@p@eAdAcAhA_@j@CF?R@ZCL@HEMG?BFEE@HPGD@ECAHAGDAEA@IBCSa@a@EU@UFWCQE_@]",
+            "resource_state": 3
+        },
+        "effort_count": 387,
+        "athlete_count": 373,
+        "star_count": 1,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "5:07",
+            "qom": "5:18",
+            "overall": "5:07",
+            "destination": {
+                "href": "strava://segments/3052837/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 5089975,
+            "title": "Ren\u00e9 Lamain",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5089975/3468879/10/large.jpg",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                "overall": "2 efforts",
+                "female": null
+            },
+            "destination": "strava://segments/3052837/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 25065975,
+        "resource_state": 3,
+        "name": " Gro\u00dfe Penkentour - steepest part",
+        "activity_type": "Ride",
+        "distance": 587.7,
+        "average_grade": 23.2,
+        "maximum_grade": 35.6,
+        "elevation_high": 1997.2,
+        "elevation_low": 1861.0,
+        "start_latlng": [
+            47.173698,
+            11.799744
+        ],
+        "end_latlng": [
+            47.170966,
+            11.796203
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5QSJKYQRQOOHTD5ETOBULSZXV6NXXLSZGOFX2U7PFNCPNA5CLVWKOMN536LXKDDZ7G6RUYEVYS6QTYGIPRADFKQ=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5QSJKYQRQOOHTD5ETOBULSZXV6NXXLSZGOFX2U7PFNCPNA5CLVWKOMN536LXKDDZ7G6RUYEVYS6QTYGIPRADFKQ=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/USAGXPH5T4K64TUUPWSA7UJ2TPUWWJ4CB3M4L3LGBXUJFLSMWZK4LL4PJSQJUA2U4HIG3R7RXCFEZHCUZU3TQCQ="
+        },
+        "climb_category": 1,
+        "city": "Schwendau",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2020-07-27T16:50:32Z",
+        "updated_at": "2021-05-15T02:25:03Z",
+        "total_elevation_gain": 136.2,
+        "map": {
+            "id": "s25065975",
+            "polyline": "qr|~Gks_gAFDJJx@|CHRf@xBFl@Tn@H`@@XJ^Ff@L|AGr@OjAg@|B?\\JTDDZBRKt@w@\\Wr@w@t@s@z@[b@IJ?h@G",
+            "resource_state": 3
+        },
+        "effort_count": 196,
+        "athlete_count": 174,
+        "star_count": 0,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "5:06",
+            "qom": "15:46",
+            "overall": "5:06",
+            "destination": {
+                "href": "strava://segments/25065975/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 64015237,
+            "title": "Kristof Van de Meerssche",
+            "profile": "https://graph.facebook.com/10157859223618547/picture?height=256&width=256",
+            "effort_description": "2 efforts in the last 90 days",
+            "effort_count": "2",
+            "effort_counts": {
+                "overall": "2 efforts",
+                "female": null
+            },
+            "destination": "strava://segments/25065975/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 981003,
+        "resource_state": 3,
+        "name": "Penkenberg Climb",
+        "activity_type": "Ride",
+        "distance": 414.629,
+        "average_grade": 26.2,
+        "maximum_grade": 43.0,
+        "elevation_high": 2075.4,
+        "elevation_low": 1966.6,
+        "start_latlng": [
+            47.16766818105213,
+            11.806260611915715
+        ],
+        "end_latlng": [
+            47.17020389313223,
+            11.802490949569393
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3NORUO7V4XLECVA254W3J6XC44TUPF7K53UU4WLYAOGTKT4PA7HVQ5YMZW346XPIMF2T3WCDJW7UVWTGBVOWOKA=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3NORUO7V4XLECVA254W3J6XC44TUPF7K53UU4WLYAOGTKT4PA7HVQ5YMZW346XPIMF2T3WCDJW7UVWTGBVOWOKA=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/F2HU22GRUNLEGLTYZTFFGHEDNAQERNKSLRWGYMF7ZTUPAFDYHBM367YYLRJUA3274WP2C4FWN3EKTMM4EE7GPZY="
+        },
+        "climb_category": 1,
+        "city": "Finkenberg",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-02-09T20:01:50Z",
+        "updated_at": "2021-05-15T02:11:51Z",
+        "total_elevation_gain": 108.765,
+        "map": {
+            "id": "s981003",
+            "polyline": "{l{~Gc|`gADX?LS`@c@pAIn@ONaBzAOPiBxCq@v@u@fAc@`@gAjB",
+            "resource_state": 3
+        },
+        "effort_count": 185,
+        "athlete_count": 149,
+        "star_count": 1,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "2:40",
+            "qom": "2:36",
+            "overall": "2:36",
+            "destination": {
+                "href": "strava://segments/981003/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": null
+    },
+    {
+        "id": 4754250,
+        "resource_state": 3,
+        "name": "drop down 150",
+        "activity_type": "Ride",
+        "distance": 2394.3,
+        "average_grade": -13.6,
+        "maximum_grade": 16.3,
+        "elevation_high": 2035.0,
+        "elevation_low": 1705.3,
+        "start_latlng": [
+            47.170358,
+            11.796734
+        ],
+        "end_latlng": [
+            47.178719,
+            11.796017
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HHUPTNCLXBBH6IQBNPSL5HIMY3LA7RPYCPURCPHB6URKVTFAD5JSAFGAQURXHW5BK56XFRIY2XXUAJUDUIEJHIQ=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/HHUPTNCLXBBH6IQBNPSL5HIMY3LA7RPYCPURCPHB6URKVTFAD5JSAFGAQURXHW5BK56XFRIY2XXUAJUDUIEJHIQ=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/PWRLC7FEUWZLNVEWTZL52Y3R2O3S2YXWZDWJGY6RLYWWMTD6GKWH4OW5O6NEWI5UBMII7JAD6CANQA2JXPPES5I="
+        },
+        "climb_category": 0,
+        "city": "Finkenberg",
+        "state": "Tir.",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-07-16T13:47:35Z",
+        "updated_at": "2021-05-15T02:13:33Z",
+        "total_elevation_gain": 25.5,
+        "map": {
+            "id": "s4754250",
+            "polyline": "u}{~Gq`_gASXg@~@GD_@P[?QB]?i@H_@La@XSR[\\[`@o@l@k@p@OJWHOEKGGMC[D]^kBNiB@o@Cc@WeBIkASk@Kw@}@yDUm@Ie@IOQOG?CJ@`@AR[rAQAGw@IKE@SVEBGCEEGe@HeBAqAKoAIYKKGLCHi@pDc@vBI`A?pBe@|D[fBa@p@Uv@Il@@LEx@EPqAvBe@z@SfAQ|AMd@aAfB]dAMT}@~B_@t@W\\Md@c@r@MEEI?WHq@TyDRuBCgBBwBGmAWkCG{Ae@aCEcAGMIAMRWv@WhAWp@",
+            "resource_state": 3
+        },
+        "effort_count": 925,
+        "athlete_count": 739,
+        "star_count": 4,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "3:59",
+            "qom": "4:27",
+            "overall": "3:59",
+            "destination": {
+                "href": "strava://segments/4754250/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 107267203,
+            "title": "Roli Striemitzer",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/107267203/31976556/8/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                "overall": "1 effort",
+                "female": "1 effort"
+            },
+            "destination": "strava://segments/4754250/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 3254067,
+        "resource_state": 3,
+        "name": "Horberg 418 Climb",
+        "activity_type": "Ride",
+        "distance": 420.067,
+        "average_grade": 30.0,
+        "maximum_grade": 53.4,
+        "elevation_high": 1744.0,
+        "elevation_low": 1618.0,
+        "start_latlng": [
+            47.17873583547771,
+            11.798270428553224
+        ],
+        "end_latlng": [
+            47.17510286718607,
+            11.79879798553884
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YBVHJHMSSVO6H76ZOBHYKSZA7ZUZYPSQIAP6KCULQ2S45DIEM4XNETN3J7CJHSGCHW3I5XG4XANUN4WO5QMHCJI=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YBVHJHMSSVO6H76ZOBHYKSZA7ZUZYPSQIAP6KCULQ2S45DIEM4XNETN3J7CJHSGCHW3I5XG4XANUN4WO5QMHCJI=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SVQEQXV2T657UKGT5QBXNISTXJCDSMA2JEYYBEIX6J7VD2VZ7CURGLQ6FEMCYLOIITFPQU6YKV632QWKPQBI3ZQ="
+        },
+        "climb_category": 1,
+        "city": "Schwendau",
+        "state": "Tyrol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-01-12T21:01:27Z",
+        "updated_at": "2021-05-15T02:12:45Z",
+        "total_elevation_gain": 126.0,
+        "map": {
+            "id": "s3254067",
+            "polyline": "ar}~Gej_gAT?v@MbAYVAz@FLAd@OBCAC@Az@e@VGNMnAGh@Np@Vp@HVAXIbAK",
+            "resource_state": 3
+        },
+        "effort_count": 157,
+        "athlete_count": 155,
+        "star_count": 1,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "1:19",
+            "qom": "1:30",
+            "overall": "1:19",
+            "destination": {
+                "href": "strava://segments/3254067/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": null
+    },
+    {
+        "id": 2434861,
+        "resource_state": 3,
+        "name": "Penkenberg 626 Climb",
+        "activity_type": "Ride",
+        "distance": 2817.65,
+        "average_grade": 13.3,
+        "maximum_grade": 59.0,
+        "elevation_high": 2053.1,
+        "elevation_low": 1674.7,
+        "start_latlng": [
+            47.178488,
+            11.796693
+        ],
+        "end_latlng": [
+            47.168595,
+            11.801103
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YQ6PEMZNQ4ISNEE5NIQDVQK3FLSQXFN4LN4KL5XRZBKRJ3S74RUOCSBJ7KDQS2JXHUXASLXKISLPCNJHQUNVYKGZ",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YQ6PEMZNQ4ISNEE5NIQDVQK3FLSQXFN4LN4KL5XRZBKRJ3S74RUOCSBJ7KDQS2JXHUXASLXKISLPCNJHQUNVYKGZ",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7WN7AMU7TBYZZ5CTHJEKEGCESGXCSOYMF3K52XM7AQT7O3T5232PDZGUJR54GEOZ3GJIFWSBLJDNY47KBWJREXVB"
+        },
+        "climb_category": 3,
+        "city": "Schwendau",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-09-22T18:13:24Z",
+        "updated_at": "2021-05-15T02:12:30Z",
+        "total_elevation_gain": 385.84,
+        "map": {
+            "id": "s2434861",
+            "polyline": "op}~Gi`_gAr@qAJ@LfB`@rBDf@CRDn@\\`CJbAIhB@XG`AD\\?VGbAQx@A\\C^Kb@C`@QvAHPB?FCp@sAp@e@\\e@d@kB`AyBx@uAPsCBq@Ja@FIA?LBb@}@j@gALg@L{BNi@d@{@n@oCVyARaBCmBD_AFe@\\mAJaATqAFQJFBF`@nB?^Lz@@VKd@?`@FFJ?DMFEH@@PFN?HDFF?JYGDXaAFo@F@HNPl@ALBFC?JVDVFN^PHPIVBRDLRJCL@RAFIC@LRx@Td@FBFLFd@?`@J`@Hv@DXDF@TKbASbA[pAKx@FPLNR@\\KI@CDDGhAcAGEVUFAHGNUJGZ_@LEPMD?d@STEpBWLGLQJWh@{@FUBYWaBAq@?eBDaBD[x@{BZ[VOJCbACNENO^kAPSVMr@k@Na@Bk@",
+            "resource_state": 3
+        },
+        "effort_count": 34,
+        "athlete_count": 34,
+        "star_count": 2,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "20:27",
+            "qom": "47:02",
+            "overall": "20:27",
+            "destination": {
+                "href": "strava://segments/2434861/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": null
+    },
+    {
+        "id": 10180754,
+        "resource_state": 3,
+        "name": "Gratlspitz",
+        "activity_type": "Ride",
+        "distance": 2267.1,
+        "average_grade": 24.6,
+        "maximum_grade": 50.0,
+        "elevation_high": 1894.0,
+        "elevation_low": 1335.0,
+        "start_latlng": [
+            47.421058,
+            11.94726
+        ],
+        "end_latlng": [
+            47.414951,
+            11.947647
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GX7VY4BAPODTBDLB4FT4WNZDJ46MZ5JJOD3KRSAMDCOAEW2O4IWROLHQ5KZDVQIWQW57JIXNSFYX44UBWV57QXKT",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GX7VY4BAPODTBDLB4FT4WNZDJ46MZ5JJOD3KRSAMDCOAEW2O4IWROLHQ5KZDVQIWQW57JIXNSFYX44UBWV57QXKT",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/AUKRVZCWOAU2QRFXMATN5MQ3G5NAOEX4O3HHZBRUUBM5CY4B4PLZ5747ZTZOVG4DZMDI3IGTT6W7IELOGXB7UQAR"
+        },
+        "climb_category": 3,
+        "city": null,
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2015-08-10T13:15:35Z",
+        "updated_at": "2021-05-15T02:16:50Z",
+        "total_elevation_gain": 460.0,
+        "map": {
+            "id": "s10180754",
+            "polyline": "q|l`Hkm|gA@CFEHW?MRc@QHCCBDj@E@CCBKIIOEa@?WNa@Jw@EDG@BQDSb@w@BU\\_AHc@G[GIDGAIGCHWCCKEQd@`@i@HC?@\\e@AYLwAXi@LETe@WYBMDKNMFQDYPEEa@LGFKDOAK@@`@m@BQGc@Pk@ACHB@CRE@ULK\\QHSbBy@RB^PRIJDd@TVRl@JZLLHBHLDXXVFDDPh@Db@Tb@@RGAABDTAPBB@HELDJ?NCF@^E@SCOIEIUOMMMEEKa@FEGc@LMGAEUEILC?CA?OCCBi@GIPM@@OG\\XPHDH?JGHE@KGGF?NGNAFEF?HGXXN@CBDFC?LHP?JC@FFHd@DNLPBND?LRRn@?NDB@LHJJf@BBF?TRPF`@?`@CDBREd@YFGPALKNBVHBNKZCKBJC^?VBFg@fA]XMAYRHTGFANFPDBBFFAHL?JB?AJ@@HADBNKLJHBDANBFAAAL~@JHRZJD@@CALLZd@@ZKjAI\\@A@DC?@D@G?JAI@D@CAA?BBM?DAe@XuABAJYDC@KDHB?A@@JBC?I",
+            "resource_state": 3
+        },
+        "effort_count": 43,
+        "athlete_count": 31,
+        "star_count": 1,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "29:33",
+            "qom": "36:00",
+            "overall": "29:33",
+            "destination": {
+                "href": "strava://segments/10180754/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 31637293,
+            "title": "J\u00fcrgn A",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/31637293/9457747/1/large.jpg",
+            "effort_description": "1 effort in the last 90 days",
+            "effort_count": "1",
+            "effort_counts": {
+                "overall": "1 effort",
+                "female": null
+            },
+            "destination": "strava://segments/10180754/local_legend?categories%5B%5D=female"
+        }
+    },
+    {
+        "id": 34847178,
+        "resource_state": 3,
+        "name": "Kohlgruabn Steil",
+        "activity_type": "Ride",
+        "distance": 960.6,
+        "average_grade": 14.6,
+        "maximum_grade": 22.4,
+        "elevation_high": 1813.7,
+        "elevation_low": 1673.3,
+        "start_latlng": [
+            47.366,
+            11.916908
+        ],
+        "end_latlng": [
+            47.368836,
+            11.923042
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7YGTEMRXVWQKBMGDTNNUNVHOYFUUZ3CIONBQBPA3EI2I2CJODZTGPHT64DVDUFIV2CXWKV52E3YVRFGEBEEMUPA=",
+        "elevation_profiles": {
+            "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7YGTEMRXVWQKBMGDTNNUNVHOYFUUZ3CIONBQBPA3EI2I2CJODZTGPHT64DVDUFIV2CXWKV52E3YVRFGEBEEMUPA=",
+            "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ZABBZE7HZB2JMSSMXILRLUMJS4LKN6VHDHNIWY2UR3FTCPA56U26FWFSPNMZ4LN42W5NUPRCZWYYLF52WOE56WY="
+        },
+        "climb_category": 1,
+        "city": "Gemeinde Reith im Alpbachtal",
+        "state": "Tyrol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2023-07-08T10:43:59Z",
+        "updated_at": "2023-07-08T10:43:59Z",
+        "total_elevation_gain": 135.684,
+        "map": {
+            "id": "s34847178",
+            "polyline": "odb`HsovgAQc@Mk@GmAGK[OGIWwAg@iAOIQCe@LI@c@CUEWOw@y@KUa@_Bs@uBs@kAa@}@OSKGIOIS]iAY_@ES?GDEJ?HBVZPLb@J`BZTA|@On@?HEDIAQKGC@_@g@IEGIi@}AOYq@]WCg@OOK",
+            "resource_state": 3
+        },
+        "effort_count": 716,
+        "athlete_count": 395,
+        "star_count": 1,
+        "athlete_segment_stats": {
+            "pr_elapsed_time": null,
+            "pr_date": null,
+            "pr_visibility": null,
+            "pr_activity_id": null,
+            "pr_activity_visibility": null,
+            "effort_count": 0
+        },
+        "xoms": {
+            "kom": "5:22",
+            "qom": "5:52",
+            "overall": "4:15",
+            "destination": {
+                "href": "strava://segments/34847178/leaderboard?gender=F",
+                "type": "overall_female",
+                "name": "All-Time (Women)"
+            }
+        },
+        "local_legend": {
+            "athlete_id": 16576963,
+            "title": "Stefan W\u00f6ll",
+            "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/16576963/6291118/3/large.jpg",
+            "effort_description": "3 efforts in the last 90 days",
+            "effort_count": "3",
+            "effort_counts": {
+                "overall": "3 efforts",
+                "female": "1 effort"
+            },
+            "destination": "strava://segments/34847178/local_legend?categories%5B%5D=female"
+        }
+    }
+]
