@@ -1,0 +1,26 @@
+import streamlit as st
+import geopandas as gpd
+from styles import STYLE_CSS
+
+st.markdown(STYLE_CSS, unsafe_allow_html=True)
+
+st.title("Tyrol Mountain Peaks and Protected Areas")
+
+# Load data
+peaks = gpd.read_file("Data/tyrol_mountain_peaks.gpkg")
+protected = gpd.read_file("Data/austria_osm_protected_areas.gpkg")
+
+# Ensure same coordinate system
+if peaks.crs != protected.crs:
+    protected = protected.to_crs(peaks.crs)
+
+# Convert to WGS84 for streamlit map (needs lat/lon)
+peaks = peaks.to_crs("EPSG:4326")
+protected = protected.to_crs("EPSG:4326")
+
+# Extract lat/lon from geometry for peaks
+peaks['latitude'] = peaks.geometry.y
+peaks['longitude'] = peaks.geometry.x
+
+# Display map
+st.map(peaks[['latitude', 'longitude']])
