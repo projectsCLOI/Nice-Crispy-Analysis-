@@ -1,2 +1,2 @@
-# Nice-Crispy-Analysis-
-The best repo
+# No Stresso
+To support the identification of nature tourism hotspots and prevent excessive pressure on natural environments, we developed a Data Collection and Aggregation Framework that calculates a Nature Pressure Score—a metric indicating ecological stress. The underlying algorithm leverages heterogeneous and multimodal data sources, integrating popularity indicators such as web search trends, sports tracking data, and object detection outputs with ecosystem stress resistance scores. These measures can be extended, mixed and matched. This combination enables a meaningful, data-driven assessment of environmental pressure. An interactive dashboard further enhances geospatial understanding by visualizing the spatial distribution of pressure across different regions.
