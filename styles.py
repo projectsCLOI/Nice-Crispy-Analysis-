@@ -7,8 +7,8 @@ STYLE_CSS = """
     }
     
     [data-testid="stMetricLabel"] {
-        font-size: 1rem;
-        color: #7F8C8D;
+        font-size: 1.5rem;
+        color: #ffffff;
         font-weight: 500;
     }
     

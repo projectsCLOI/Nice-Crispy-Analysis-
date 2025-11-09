@@ -16,8 +16,8 @@ st.markdown(STYLE_CSS, unsafe_allow_html=True)
 
 @st.cache_data
 def load_data():
-    # Load stress score data
-    peaks = gpd.read_file("Data/200_tyrol_mountains_final_stress_score.gpkg")
+    # load stress score data
+    peaks = gpd.read_file("Data/200_tyrol_mountains_final_stress_score.gpkg", layer="peaks")
     protected = gpd.read_file("Data/austria_osm_protected_areas.gpkg")
 
     if peaks.crs != protected.crs:
@@ -39,7 +39,7 @@ def load_data():
             peaks[col] = pd.to_numeric(peaks[col], errors="coerce")
             stress_col = col
             break
-
+    print(stress_col)
     return peaks, protected, stress_col
 
 
