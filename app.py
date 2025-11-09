@@ -77,7 +77,7 @@ with st.expander("Filters", expanded=False):
         search_input = st.text_input("Search Peak Name")
 
         # checkboxx
-       # show_protected = st.checkbox("Show Protected Areas", value=True) -- does not work right now 
+        show_protected = st.checkbox("Show just Protected Areas", value=True) 
 
         # data slider
         if 'ele' in peaks.columns:
@@ -123,59 +123,75 @@ col1, col2 = st.columns([2, 1])
 with col1:
     st.subheader("Interactive Map")
 
-    if 'ele' in filtered_peaks.columns and 'name' in filtered_peaks.columns:
+    # If checkbox is checked → show protected areas ONLY
+    if show_protected:
+        prot = protected.copy()
+
+        # centroid coordinates for display
+        prot["lat"] = prot.geometry.centroid.y
+        prot["lon"] = prot.geometry.centroid.x
+
         fig_map = px.scatter_mapbox(
-            filtered_peaks,
-            lat='latitude',
-            lon='longitude',
-            hover_name='name',
-            hover_data={'ele': ':.0f', 'latitude': ':.4f', 'longitude': ':.4f'},
-            color='ele',
-            color_continuous_scale='Viridis',
-            size_max=15,
+            prot,
+            lat="lat",
+            lon="lon",
+            hover_name="name" if "name" in prot.columns else None,
+            hover_data=None,
+            color_discrete_sequence=["green"],
             zoom=8,
-            height=500,
-            labels={'ele': 'Elevation (m)'}
+            height=500
         )
+
+    # Checkbox not checked → show peaks ONLY
     else:
         fig_map = px.scatter_mapbox(
             filtered_peaks,
             lat='latitude',
             lon='longitude',
+            hover_name='name' if 'name' in filtered_peaks.columns else None,
+            hover_data={'ele': ':.0f'} if 'ele' in filtered_peaks.columns else None,
+            color='ele' if 'ele' in filtered_peaks.columns else None,
+            color_continuous_scale='Viridis' if 'ele' in filtered_peaks.columns else None,
             zoom=8,
-            height=500
+            height=500,
         )
 
     fig_map.update_layout(
         mapbox_style="open-street-map",
-        margin={"r": 0, "t": 0, "l": 0, "b": 0}
+        margin={"r":0, "t":0, "l":0, "b":0}
     )
+
     st.plotly_chart(fig_map, use_container_width=True)
 
 with col2:
-    st.subheader("Peak Statistics")
-    if 'ele' in filtered_peaks.columns:
-        # histogram
-        fig_hist = px.histogram(
-            filtered_peaks,
-            x='ele',
-            nbins=30,
-            labels={'ele': 'Elevation (m)', 'count': 'Number of Peaks'},
-            title='Elevation Distribution'
-        )
-        fig_hist.update_layout(height=250, margin=dict(l=0, r=0, t=30, b=0), showlegend=False)
-        st.plotly_chart(fig_hist, use_container_width=True)
+    st.subheader("Statistics")
 
-        # top 10 highest scores
-        st.markdown("**Top 10 Scores**")
-        if 'name' in filtered_peaks.columns:
-            top_peaks = filtered_peaks.nlargest(10, 'ele')[['name', 'ele']]
-            top_peaks.columns = ['Peak Name', 'Elevation (m)']
-            st.dataframe(top_peaks.reset_index(drop=True), use_container_width=True, hide_index=True, height=250)
-        else:
-            st.info("Peak names not available in dataset")
+    # No peak stats while protected areas are shown
+    if show_protected:
+        st.info("Statistics shown only for peaks (disable 'Show Protected Areas').")
 
-st.markdown("---")
+    else:
+        if 'ele' in filtered_peaks.columns:
+            # Histogram
+            fig_hist = px.histogram(
+                filtered_peaks,
+                x='ele',
+                nbins=30,
+                labels={'ele': 'Elevation (m)', 'count': 'Number of Peaks'},
+                title='Elevation Distribution'
+            )
+            fig_hist.update_layout(height=250, margin=dict(l=0, r=0, t=30, b=0), showlegend=False)
+            st.plotly_chart(fig_hist, use_container_width=True)
+
+            # Top 10 peaks
+            st.markdown("**Top 10 Scores**")
+            if 'name' in filtered_peaks.columns:
+                top_peaks = filtered_peaks.nlargest(10, 'ele')[['name', 'ele']]
+                top_peaks.columns = ['Peak Name', 'Elevation (m)']
+                st.dataframe(top_peaks.reset_index(drop=True), use_container_width=True, hide_index=True, height=250)
+            else:
+                st.info("Peak names not available.")
+
 
 #------------------------ELEVATION RANGE ANALYSIS-----------------------------
 if 'ele' in filtered_peaks.columns:
@@ -220,7 +236,7 @@ if 'ele' in filtered_peaks.columns:
 st.markdown("---")
 
 #------------------------DATA TABLE------------------------------------------
-st.subheader("Peak Details")
+st.subheader("Score Details")
 
 display_cols = ['latitude', 'longitude']
 if 'name' in filtered_peaks.columns:
