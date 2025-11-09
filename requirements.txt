@@ -1,3 +1,7 @@
 geopandas
 streamlit
 plotly
+ultralytics
+requests
+bs4
+tqdm
