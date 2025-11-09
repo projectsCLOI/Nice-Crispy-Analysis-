@@ -111,7 +111,7 @@ if __name__ == '__main__':
 
         classification_results = classify_images([x["src"] for x in images]) if images else {"persons": [0], "cars": [0], "bicycle": [0]}
         num_ppl =  sum(classification_results["persons"])
-        with open("ppl_on_mountains_tyrol.csv", "a", newline="", encoding="utf-8") as csvfile:
+        with open("Data/ppl_on_mountains_tyrol.csv", "a", newline="", encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow([coords, num_ppl, webcam_id])
 
